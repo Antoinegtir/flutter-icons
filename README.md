@@ -4,7 +4,7 @@
 ----
 ## You're `vscode extension` that display a large gam of icons for a clean architecture of you're Flutter project !
 
-<a href="https://marketplace.visualstudio.com/items?itemName=AntoineGtr.flutter-icons">Click here to install</a>
+## <a href="https://marketplace.visualstudio.com/items?itemName=AntoineGtr.flutter-icons">Click here to install</a>
 
 
 |   After   |   Before  |
