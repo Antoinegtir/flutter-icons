@@ -47,7 +47,7 @@
 ---
 ## Contributing
 
-Feel free to create read the <a href="https://github.com/Antoinegtir/flutter-icons/contributing.md">Contributing</a> if you wanna add some flutter icons that i might forgot !
+Feel free to create read the <a href="https://github.com/Antoinegtir/flutter-icons/blob/main/CONTRIBUTING.md">Contributing</a> if you wanna add some flutter icons that i might forgot !
 
 ## Credits
 
@@ -58,7 +58,7 @@ The rest of the files & folder come from the following beautyfull library: <a hr
 
 ## Cookbook 📖
 
-Check the following <a href="">Wiki</a> if you wanna run locally the extension and start developping you're own !
+Check the following <a href="https://github.com/Antoinegtir/flutter-icons/wiki/⚙%EF%B8%8F-Develop">Wiki</a> if you wanna run locally the extension and start developping you're own !
 
 ## License
 
