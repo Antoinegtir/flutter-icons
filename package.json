@@ -1,0 +1,35 @@
+{
+  "name": "flutter-icons",
+  "displayName": "Flutter Icons",
+  "description": "A Flutter icon theme for vscode",
+  "version": "1.0.1",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "AntoineGtr",
+  "repository": {
+    "url": "https://github.com/Antoinegtir/flutter-icons",
+    "type": "git"
+  },
+  "icon": "icons/logo.png",
+  "galleryBanner": {
+    "color": "#23292e",
+    "theme": "dark"
+  },
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "theme",
+        "label": "Flutter Icons",
+        "path": "./theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "vsce": "^2.9.2"
+  }
+}
