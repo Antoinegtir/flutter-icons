@@ -8,7 +8,7 @@ You're `vscode extension` that display a large gam of icons for a clean architec
 
 
 |   After   |   Before  |
-|------|------|------|------|
+|------|------|
 ![](./assets/before.png)|![](./assets/after.png)|![](./icons/macos.png)|![](./icons/ios.png)|
 
 ---
