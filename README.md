@@ -9,7 +9,7 @@
 
 |   After   |   Before  |
 |------|------|
-![](./assets/before.png)|![](./assets/after.png)|![](./icons/macos.png)|![](./icons/ios.png)|
+![](https://github.com/Antoinegtir/flutter-icons/blob/main/assets/before.png?raw=trie)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/assets/after.png?raw=true)
 
 ---
 
@@ -17,33 +17,33 @@
 
 |   Windows Folder   |   Linux Folder   |   MacOS Folder   |    iOS Folder  |
 |------|------|------|------|
-![](./icons/windows.png)|![](./icons/linux.png)|![](./icons/macos.png)|![](./icons/ios.png)|
-| ![Image 1](./icons/windows_open.png) | ![Image 2](./icons/linux_open.png) | ![Image 3](./icons/macos_open.png) | ![Image 4](./icons/ios_open.png) |
+![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/windows.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/linux.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/macos.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/ios.png?raw=true)|
+| ![Image 1](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/windows_open.png?raw=true) | ![Image 2](./icons/linux_open.png) | ![Image 3](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/macos_open.png?raw=true) | ![Image 4](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/ios_open.png?raw=true) |
 ---
 ## Provider Folder
 
 |   Bloc Folder   |   Mobx Folder   |   Riverpod Folder   |    Getx Folder  |
 |------|------|------|------|
-![](./icons/bloc.png)|![](./icons/mobx.png)|![](./icons/riverpod.png)|![](./icons/getx.png)|
-| ![Image 1](./icons/bloc_open.png) | ![Image 2](./icons/mobx_open.png) | ![Image 3](./icons/riverpod_open.png) | ![Image 4](./icons/getx_open.png) |
+![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/bloc.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/mobx.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/riverpod.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/getx.png?raw=true)|
+| ![Image 1](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/bloc_open.png?raw=true) | ![Image 2](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/mobx_open.png?raw=true) | ![Image 3](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/riverpod_open.png?raw=true) | ![Image 4](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/getx_open.png?raw=true) |
 ---
 ## Extensions Dart
 
 |   Classic File   |   Services File   |   Module File   |    State File   |
 |------|------|------|------|
-![](./icons/dart.png)|![](./icons/service_dart.png)|![](./icons/module_dart.png)|![](./icons/state_dart.png)|
+![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/dart.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/service_dart.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/module_dart.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/state_dart.png?raw=true)|
 ---
 ## Provider File
 
 |   Bloc File   |   Mobx File   |   Riverpod File   |    Getx File   |
 |------|------|------|------|
-![](./icons/bloc_file.png)|![](./icons/mobx_file.png)|![](./icons/riverpod_file.png)|![](./icons/getx_file.png)|
+![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/bloc_file.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/mobx_file.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/riverpod_file.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/getx_file.png?raw=true)|
 ---
 ## Config File
 
 |   .metadata   |   .flutter-plugins   |   .flutter-plugins-dependencies   |    .dart_tool   |
 |------|------|------|------|
-![](./icons/flutter.png)|![](./icons/flutter.png)|![](./icons/flutter.png)|![](./icons/bird.png)|
+![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/flutter.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/flutter.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/flutter.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/bird.png?raw=true)|
 ---
 ## Contributing
 
