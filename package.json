@@ -2,7 +2,7 @@
   "name": "flutter-icons",
   "displayName": "Flutter Icons",
   "description": "A Flutter icon theme for vscode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "engines": {
     "vscode": "^1.52.0"
