@@ -1,5 +1,3 @@
-<img height="200" src="https://avatars.githubusercontent.com/u/11242654?s=400&v=4"></img>
-
 # Flutter Icons
 ----
 ## You're `vscode extension` that display a large gam of icons for a clean architecture of you're Flutter project !
@@ -9,7 +7,7 @@
 
 |   Before   |   After  |
 |------|------|
-![](https://github.com/Antoinegtir/flutter-icons/blob/main/assets/before.png?raw=trie)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/assets/after.png?raw=true)
+![](https://raw.githubusercontent.com/Antoinegtir/flutter-icons/main/assets/before.png)|![](https://raw.githubusercontent.com/Antoinegtir/flutter-icons/main/assets/after.png)
 
 ---
 
