@@ -1,6 +1,6 @@
 # Flutter Icons
 ----
-## You're `vscode extension` that display a large gam of icons for a clean architecture of you're Flutter project !
+## `vscode extension` that display a large gam of icons for a clean architecture of you're Flutter project !
 
 ## <a href="https://marketplace.visualstudio.com/items?itemName=AntoineGtr.flutter-icons">Click here to install</a>
 
@@ -9,39 +9,6 @@
 |------|------|
 ![](https://raw.githubusercontent.com/Antoinegtir/flutter-icons/main/assets/before.png)|![](https://raw.githubusercontent.com/Antoinegtir/flutter-icons/main/assets/after.png)
 
----
-
-## Device Folder
-
-|   Windows Folder   |   Linux Folder   |   MacOS Folder   |    iOS Folder  |
-|------|------|------|------|
-![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/windows.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/linux.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/macos.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/ios.png?raw=true)|
-| ![Image 1](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/windows_open.png?raw=true) | ![Image 2](./icons/linux_open.png) | ![Image 3](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/macos_open.png?raw=true) | ![Image 4](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/ios_open.png?raw=true) |
----
-## Provider Folder
-
-|   Bloc Folder   |   Mobx Folder   |   Riverpod Folder   |    Getx Folder  |
-|------|------|------|------|
-![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/bloc.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/mobx.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/riverpod.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/getx.png?raw=true)|
-| ![Image 1](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/bloc_open.png?raw=true) | ![Image 2](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/mobx_open.png?raw=true) | ![Image 3](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/riverpod_open.png?raw=true) | ![Image 4](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/getx_open.png?raw=true) |
----
-## Extensions Dart
-
-|   Classic File   |   Services File   |   Module File   |    State File   |
-|------|------|------|------|
-![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/dart.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/service_dart.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/module_dart.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/state_dart.png?raw=true)|
----
-## Provider File
-
-|   Bloc File   |   Mobx File   |   Riverpod File   |    Getx File   |
-|------|------|------|------|
-![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/bloc_file.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/mobx_file.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/riverpod_file.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/getx_file.png?raw=true)|
----
-## Config File
-
-|   .metadata   |   .flutter-plugins   |   .flutter-plugins-dependencies   |    .dart_tool   |
-|------|------|------|------|
-![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/flutter.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/flutter.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/flutter.png?raw=true)|![](https://github.com/Antoinegtir/flutter-icons/blob/main/icons/bird.png?raw=true)|
 ---
 ## Contributing
 
