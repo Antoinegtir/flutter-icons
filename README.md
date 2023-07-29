@@ -1,6 +1,6 @@
 # Flutter Icons
 ----
-## `vscode extension` that display a large gam of icons for a clean architecture of you're Flutter project !
+## `vscode extension` that display a large gam of icons for a clean architecture of your Flutter project !
 
 ## <a href="https://marketplace.visualstudio.com/items?itemName=AntoineGtr.flutter-icons">Click here to install</a>
 
