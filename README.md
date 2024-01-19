@@ -7,7 +7,7 @@
 ## <a href="https://marketplace.visualstudio.com/items?itemName=AntoineGtr.flutter-icons">Click here to install</a>
 
 
-|   After   |   Before  |
+|   Before   |   After  |
 |------|------|
 ![](./assets/before.png)|![](./assets/after.png)|![](./icons/macos.png)|![](./icons/ios.png)|
 
